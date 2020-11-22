@@ -1,0 +1,166 @@
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.rel{
+  font-size: 1.6rem;
+  font-weight: 100;
+  color: HSL(229, 6%, 27%);
+}
+.pow{
+  font-size: 1.6rem;
+}
+.top{
+
+  line-height: .2;
+}
+.topd{
+width: 400px;
+
+  margin-left: auto;
+  margin-right: auto;
+  line-height: normal;
+}
+.our{
+  font-size: .75rem;
+  color: HSL(229, 6%, 27%);
+}
+.p{
+  color: HSL(229, 6%, 27%);
+  font-size: .6rem;
+  margin-top: 3px;
+  text-align: left;
+}
+h5{
+  text-align: left;
+  margin-bottom: 2px;
+  margin-top: 0;
+
+
+}
+img{
+  float: right;
+  width: 20%;
+  margin-top: 30px;
+
+}
+.one{
+  border-radius: 3%;
+  border-top: 5px solid hsl(0, 78%, 62%);
+  width: 250px;
+  height: 150px;
+padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+position: absolute;
+left: 6.25rem;
+top: 15.625rem;
+
+
+
+
+}
+.two{
+  border-radius: 3%;
+  border-top: 5px solid hsl(180, 62%, 55%);
+  width: 250px;
+  height: 150px;
+padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:35px;
+
+}
+.three{
+  border-radius: 3%;
+  border-top: 5px solid hsl(34, 97%, 64%);
+  width: 250px;
+  height: 150px;
+  padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+
+
+
+
+
+
+}
+.four{
+  border-radius: 3%;
+  border-top: 5px solid hsl(212, 86%, 64%);
+  width: 250px;
+  height: 150px;
+  padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: absolute;
+  top: 15.625rem;
+  right: 6.25rem;
+
+}
+footer{
+  margin-top: 500px;
+
+}
+.main{
+  width: 100%;
+}
+@media screen and (max-width: 1100px) {
+.main{
+  width: 270px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+.one{
+  border-radius: 3%;
+  border-top: 5px solid hsl(0, 78%, 62%);
+  width: 250px;
+  height: 150px;
+  padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 0;
+  position: initial;
+  margin-bottom: 20px;
+
+
+}
+.two{
+
+  border-radius: 3%;
+  border-top: 5px solid hsl(180, 62%, 55%);
+  width: 250px;
+  height: 150px;
+padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin: 0;
+  margin-bottom: 20px;
+}
+.three{
+  border-radius: 3%;
+  border-top: 5px solid hsl(34, 97%, 64%);
+  width: 250px;
+  height: 150px;
+  padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin: 0;
+  margin-bottom: 20px;
+}
+.four{
+
+  border-radius: 3%;
+  border-top: 5px solid hsl(212, 86%, 64%);
+  width: 250px;
+  height: 150px;
+  padding: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin: 0;
+position: initial;
+  margin-bottom: 20px;
+}
+
+
+}
